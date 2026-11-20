@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Campus Information Retrieval</title>
+    <!-- Script -->
+  </head>
+  <body>
+    <!--
+    Aplikasi minimal menyediakan:
+
+    1. Kolom input query.
+    2. Tombol Search.
+    3. Pilihan metode pencarian.
+    4. Pilihan jumlah hasil Top-k.
+    5. Daftar dokumen hasil pencarian.
+    6. Similarity score dan posisi ranking.
+    7. Informasi dokumen yang relevan dengan query.
+     -->
+
+    <header>
+      <h1>Campus Information Retrieval</h1>
+      <p>
+        Sistem Pencarian Dokumen Universitas Pembangunan Nasional Veteran
+        Jakarta
+      </p>
+    </header>
+
+    <main>
+      <section class="search-section">
+        <h2>Pencarian Dokumen</h2>
+
+        <div class="method-selection">
+          <label for="method">Metode Pencarian</label>
+          <select id="method">
+            <option value="boolean">Boolean Retrieval</option>
+            <option value="vsm">Vector Space Model (VSM)</option>
+          </select>
+        </div>
+
+        <div class="search-input">
+          <input
+            type="text"
+            id="query"
+            placeholder="Masukkan kata kunci pencarian..."
+          />
+          <button id="searchBtn">Cari</button>
+        </div>
+
+        <p id="searchHint">
+          Gunakan operator AND, OR, NOT untuk pencarian Boolean.
+        </p>
+
+        <div id="status"></div>
+      </section>
+
+      <section class="result-section">
+        <div class="result-header">
+          <h2>Hasil Pencarian</h2>
+          <span id="queryDisplay"></span>
+          <span id="resultCount">0 dokumen</span>
+        </div>
+
+        <div id="results">
+          <p class="empty">Masukkan query untuk mencari dokumen.</p>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>Campus Information Retrieval &copy; 2026</p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

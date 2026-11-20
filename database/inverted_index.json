@@ -1,0 +1,6906 @@
+{
+    "surat": {
+        "df": 6,
+        "idf": 1.259275,
+        "posting_list": [
+            {
+                "doc_id": "D1",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D23",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D64",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D65",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D72",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D82",
+                "tf": 1,
+                "tfidf": 1.259275
+            }
+        ]
+    },
+    "edaran": {
+        "df": 3,
+        "idf": 1.560305,
+        "posting_list": [
+            {
+                "doc_id": "D1",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D23",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D82",
+                "tf": 1,
+                "tfidf": 1.560305
+            }
+        ]
+    },
+    "menyanyikan": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D1",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "lagu": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D1",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "kebangsaan": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D1",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "indonesia": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D1",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D30",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "raya": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D1",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "di": {
+        "df": 8,
+        "idf": 1.134337,
+        "posting_list": [
+            {
+                "doc_id": "D1",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D3",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D4",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D12",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D14",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D15",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D18",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D20",
+                "tf": 1,
+                "tfidf": 1.134337
+            }
+        ]
+    },
+    "lingkungan": {
+        "df": 5,
+        "idf": 1.338456,
+        "posting_list": [
+            {
+                "doc_id": "D1",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D3",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D14",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D18",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D20",
+                "tf": 1,
+                "tfidf": 1.338456
+            }
+        ]
+    },
+    "upn": {
+        "df": 5,
+        "idf": 1.338456,
+        "posting_list": [
+            {
+                "doc_id": "D1",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D24",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D29",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D58",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D70",
+                "tf": 1,
+                "tfidf": 1.338456
+            }
+        ]
+    },
+    "veteran": {
+        "df": 5,
+        "idf": 1.338456,
+        "posting_list": [
+            {
+                "doc_id": "D1",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D24",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D29",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D58",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D70",
+                "tf": 1,
+                "tfidf": 1.338456
+            }
+        ]
+    },
+    "jakarta": {
+        "df": 5,
+        "idf": 1.338456,
+        "posting_list": [
+            {
+                "doc_id": "D1",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D24",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D29",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D58",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D70",
+                "tf": 1,
+                "tfidf": 1.338456
+            }
+        ]
+    },
+    "keputusan": {
+        "df": 13,
+        "idf": 0.923483,
+        "posting_list": [
+            {
+                "doc_id": "D2",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D3",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D4",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D6",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D10",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D12",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D15",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D17",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D25",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D33",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D70",
+                "tf": 1,
+                "tfidf": 0.923483
+            }
+        ]
+    },
+    "menteri": {
+        "df": 9,
+        "idf": 1.083184,
+        "posting_list": [
+            {
+                "doc_id": "D2",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D3",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D4",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D6",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D10",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D12",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D15",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D33",
+                "tf": 1,
+                "tfidf": 1.083184
+            }
+        ]
+    },
+    "pendidikanm": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D2",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "kebudayaan": {
+        "df": 7,
+        "idf": 1.192328,
+        "posting_list": [
+            {
+                "doc_id": "D2",
+                "tf": 1,
+                "tfidf": 1.192328
+            },
+            {
+                "doc_id": "D4",
+                "tf": 2,
+                "tfidf": 2.384657
+            },
+            {
+                "doc_id": "D6",
+                "tf": 2,
+                "tfidf": 2.384657
+            },
+            {
+                "doc_id": "D10",
+                "tf": 2,
+                "tfidf": 2.384657
+            },
+            {
+                "doc_id": "D17",
+                "tf": 1,
+                "tfidf": 1.192328
+            },
+            {
+                "doc_id": "D20",
+                "tf": 1,
+                "tfidf": 1.192328
+            },
+            {
+                "doc_id": "D32",
+                "tf": 1,
+                "tfidf": 1.192328
+            }
+        ]
+    },
+    "riset": {
+        "df": 7,
+        "idf": 1.192328,
+        "posting_list": [
+            {
+                "doc_id": "D2",
+                "tf": 1,
+                "tfidf": 1.192328
+            },
+            {
+                "doc_id": "D4",
+                "tf": 2,
+                "tfidf": 2.384657
+            },
+            {
+                "doc_id": "D6",
+                "tf": 2,
+                "tfidf": 2.384657
+            },
+            {
+                "doc_id": "D10",
+                "tf": 2,
+                "tfidf": 2.384657
+            },
+            {
+                "doc_id": "D33",
+                "tf": 1,
+                "tfidf": 1.192328
+            },
+            {
+                "doc_id": "D35",
+                "tf": 2,
+                "tfidf": 2.384657
+            },
+            {
+                "doc_id": "D65",
+                "tf": 1,
+                "tfidf": 1.192328
+            }
+        ]
+    },
+    "dan": {
+        "df": 22,
+        "idf": 0.695004,
+        "posting_list": [
+            {
+                "doc_id": "D2",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D3",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D4",
+                "tf": 4,
+                "tfidf": 2.780015
+            },
+            {
+                "doc_id": "D6",
+                "tf": 3,
+                "tfidf": 2.085011
+            },
+            {
+                "doc_id": "D7",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D10",
+                "tf": 2,
+                "tfidf": 1.390008
+            },
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D14",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D17",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D18",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D20",
+                "tf": 2,
+                "tfidf": 1.390008
+            },
+            {
+                "doc_id": "D27",
+                "tf": 2,
+                "tfidf": 1.390008
+            },
+            {
+                "doc_id": "D28",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D31",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D32",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D33",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D35",
+                "tf": 2,
+                "tfidf": 1.390008
+            },
+            {
+                "doc_id": "D43",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D65",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D71",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D82",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D84",
+                "tf": 1,
+                "tfidf": 0.695004
+            }
+        ]
+    },
+    "teknologui": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D2",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "nomor": {
+        "df": 25,
+        "idf": 0.639486,
+        "posting_list": [
+            {
+                "doc_id": "D2",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D3",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D4",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D5",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D6",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D7",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D8",
+                "tf": 2,
+                "tfidf": 1.278973
+            },
+            {
+                "doc_id": "D9",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D10",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D12",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D13",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D15",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D16",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D17",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D19",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D21",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D23",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D27",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D28",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D30",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D31",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D32",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D33",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 0.639486
+            }
+        ]
+    },
+    "54": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D2",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "p": {
+        "df": 6,
+        "idf": 1.259275,
+        "posting_list": [
+            {
+                "doc_id": "D2",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D12",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D15",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D16",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D17",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D20",
+                "tf": 1,
+                "tfidf": 1.259275
+            }
+        ]
+    },
+    "2024": {
+        "df": 9,
+        "idf": 1.083184,
+        "posting_list": [
+            {
+                "doc_id": "D2",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D25",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D45",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D46",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D48",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D51",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D63",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D97",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D107",
+                "tf": 1,
+                "tfidf": 1.083184
+            }
+        ]
+    },
+    "tentang": {
+        "df": 25,
+        "idf": 0.639486,
+        "posting_list": [
+            {
+                "doc_id": "D2",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D3",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D4",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D5",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D6",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D7",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D8",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D9",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D10",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D12",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D15",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D16",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D17",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D20",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D21",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D23",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D27",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D28",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D30",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D31",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D32",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D33",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D47",
+                "tf": 1,
+                "tfidf": 0.639486
+            }
+        ]
+    },
+    "besaran": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D2",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "standar": {
+        "df": 3,
+        "idf": 1.560305,
+        "posting_list": [
+            {
+                "doc_id": "D2",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D6",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D27",
+                "tf": 1,
+                "tfidf": 1.560305
+            }
+        ]
+    },
+    "satuan": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D2",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D16",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "biaya": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D2",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "operasional": {
+        "df": 5,
+        "idf": 1.338456,
+        "posting_list": [
+            {
+                "doc_id": "D2",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D40",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D56",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D57",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D80",
+                "tf": 1,
+                "tfidf": 1.338456
+            }
+        ]
+    },
+    "pendidikan": {
+        "df": 8,
+        "idf": 1.134337,
+        "posting_list": [
+            {
+                "doc_id": "D2",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D4",
+                "tf": 4,
+                "tfidf": 4.537346
+            },
+            {
+                "doc_id": "D6",
+                "tf": 2,
+                "tfidf": 2.268673
+            },
+            {
+                "doc_id": "D10",
+                "tf": 2,
+                "tfidf": 2.268673
+            },
+            {
+                "doc_id": "D17",
+                "tf": 2,
+                "tfidf": 2.268673
+            },
+            {
+                "doc_id": "D20",
+                "tf": 2,
+                "tfidf": 2.268673
+            },
+            {
+                "doc_id": "D32",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D33",
+                "tf": 1,
+                "tfidf": 1.134337
+            }
+        ]
+    },
+    "tinggi": {
+        "df": 8,
+        "idf": 1.134337,
+        "posting_list": [
+            {
+                "doc_id": "D2",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D4",
+                "tf": 3,
+                "tfidf": 3.40301
+            },
+            {
+                "doc_id": "D17",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D20",
+                "tf": 2,
+                "tfidf": 2.268673
+            },
+            {
+                "doc_id": "D21",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D31",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D33",
+                "tf": 2,
+                "tfidf": 2.268673
+            },
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 1.134337
+            }
+        ]
+    },
+    "pendayagunaan": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D3",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "aparatur": {
+        "df": 3,
+        "idf": 1.560305,
+        "posting_list": [
+            {
+                "doc_id": "D3",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D5",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D9",
+                "tf": 1,
+                "tfidf": 1.560305
+            }
+        ]
+    },
+    "negara": {
+        "df": 4,
+        "idf": 1.435367,
+        "posting_list": [
+            {
+                "doc_id": "D3",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D5",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D9",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D30",
+                "tf": 1,
+                "tfidf": 1.435367
+            }
+        ]
+    },
+    "reformasi": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D3",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D36",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "birokrasi": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D3",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D36",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "656": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D3",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "tahun": {
+        "df": 25,
+        "idf": 0.639486,
+        "posting_list": [
+            {
+                "doc_id": "D3",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D5",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D7",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D8",
+                "tf": 2,
+                "tfidf": 1.278973
+            },
+            {
+                "doc_id": "D9",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D19",
+                "tf": 2,
+                "tfidf": 1.278973
+            },
+            {
+                "doc_id": "D24",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D27",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D28",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D30",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D31",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D42",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D45",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D46",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D49",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D101",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D102",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D103",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D104",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D105",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D106",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D107",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D108",
+                "tf": 1,
+                "tfidf": 0.639486
+            },
+            {
+                "doc_id": "D109",
+                "tf": 1,
+                "tfidf": 0.639486
+            }
+        ]
+    },
+    "2023": {
+        "df": 9,
+        "idf": 1.083184,
+        "posting_list": [
+            {
+                "doc_id": "D3",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D4",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D44",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D51",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D56",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D57",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D59",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D60",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D108",
+                "tf": 1,
+                "tfidf": 1.083184
+            }
+        ]
+    },
+    "nomenlaktur": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D3",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "jabatan": {
+        "df": 5,
+        "idf": 1.338456,
+        "posting_list": [
+            {
+                "doc_id": "D3",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D5",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D6",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D9",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D32",
+                "tf": 1,
+                "tfidf": 1.338456
+            }
+        ]
+    },
+    "pelaksanaan": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D3",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D8",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "pegawai": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D3",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "negeri": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D3",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D20",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "sipil": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D3",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "instansi": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D3",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "pemerintah": {
+        "df": 3,
+        "idf": 1.560305,
+        "posting_list": [
+            {
+                "doc_id": "D3",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D19",
+                "tf": 1,
+                "tfidf": 1.560305
+            }
+        ]
+    },
+    "teknologi": {
+        "df": 5,
+        "idf": 1.338456,
+        "posting_list": [
+            {
+                "doc_id": "D4",
+                "tf": 2,
+                "tfidf": 2.676913
+            },
+            {
+                "doc_id": "D6",
+                "tf": 2,
+                "tfidf": 2.676913
+            },
+            {
+                "doc_id": "D10",
+                "tf": 2,
+                "tfidf": 2.676913
+            },
+            {
+                "doc_id": "D33",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 1.338456
+            }
+        ]
+    },
+    "210": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D4",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "m": {
+        "df": 4,
+        "idf": 1.435367,
+        "posting_list": [
+            {
+                "doc_id": "D4",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D13",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D32",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D33",
+                "tf": 1,
+                "tfidf": 1.435367
+            }
+        ]
+    },
+    "indikator": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D4",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D20",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "kinerja": {
+        "df": 8,
+        "idf": 1.134337,
+        "posting_list": [
+            {
+                "doc_id": "D4",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D20",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D28",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D56",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D106",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D107",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D108",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D109",
+                "tf": 1,
+                "tfidf": 1.134337
+            }
+        ]
+    },
+    "utama": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D4",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D20",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "perguruan": {
+        "df": 6,
+        "idf": 1.259275,
+        "posting_list": [
+            {
+                "doc_id": "D4",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D20",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D21",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D31",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D33",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 1.259275
+            }
+        ]
+    },
+    "lembaga": {
+        "df": 3,
+        "idf": 1.560305,
+        "posting_list": [
+            {
+                "doc_id": "D4",
+                "tf": 2,
+                "tfidf": 3.12061
+            },
+            {
+                "doc_id": "D13",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D20",
+                "tf": 1,
+                "tfidf": 1.560305
+            }
+        ]
+    },
+    "layanan": {
+        "df": 10,
+        "idf": 1.037426,
+        "posting_list": [
+            {
+                "doc_id": "D4",
+                "tf": 2,
+                "tfidf": 2.074853
+            },
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D20",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D27",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D86",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D87",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D88",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D94",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D95",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D100",
+                "tf": 1,
+                "tfidf": 1.037426
+            }
+        ]
+    },
+    "kementerian": {
+        "df": 7,
+        "idf": 1.192328,
+        "posting_list": [
+            {
+                "doc_id": "D4",
+                "tf": 1,
+                "tfidf": 1.192328
+            },
+            {
+                "doc_id": "D6",
+                "tf": 1,
+                "tfidf": 1.192328
+            },
+            {
+                "doc_id": "D10",
+                "tf": 1,
+                "tfidf": 1.192328
+            },
+            {
+                "doc_id": "D17",
+                "tf": 1,
+                "tfidf": 1.192328
+            },
+            {
+                "doc_id": "D20",
+                "tf": 1,
+                "tfidf": 1.192328
+            },
+            {
+                "doc_id": "D32",
+                "tf": 1,
+                "tfidf": 1.192328
+            },
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 1.192328
+            }
+        ]
+    },
+    "peraturan": {
+        "df": 11,
+        "idf": 0.996034,
+        "posting_list": [
+            {
+                "doc_id": "D5",
+                "tf": 1,
+                "tfidf": 0.996034
+            },
+            {
+                "doc_id": "D7",
+                "tf": 1,
+                "tfidf": 0.996034
+            },
+            {
+                "doc_id": "D8",
+                "tf": 2,
+                "tfidf": 1.992068
+            },
+            {
+                "doc_id": "D9",
+                "tf": 1,
+                "tfidf": 0.996034
+            },
+            {
+                "doc_id": "D21",
+                "tf": 1,
+                "tfidf": 0.996034
+            },
+            {
+                "doc_id": "D27",
+                "tf": 1,
+                "tfidf": 0.996034
+            },
+            {
+                "doc_id": "D28",
+                "tf": 1,
+                "tfidf": 0.996034
+            },
+            {
+                "doc_id": "D30",
+                "tf": 1,
+                "tfidf": 0.996034
+            },
+            {
+                "doc_id": "D31",
+                "tf": 1,
+                "tfidf": 0.996034
+            },
+            {
+                "doc_id": "D47",
+                "tf": 1,
+                "tfidf": 0.996034
+            },
+            {
+                "doc_id": "D74",
+                "tf": 1,
+                "tfidf": 0.996034
+            }
+        ]
+    },
+    "badan": {
+        "df": 5,
+        "idf": 1.338456,
+        "posting_list": [
+            {
+                "doc_id": "D5",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D9",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D21",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D30",
+                "tf": 1,
+                "tfidf": 1.338456
+            }
+        ]
+    },
+    "kepegawaian": {
+        "df": 3,
+        "idf": 1.560305,
+        "posting_list": [
+            {
+                "doc_id": "D5",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D9",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D30",
+                "tf": 1,
+                "tfidf": 1.560305
+            }
+        ]
+    },
+    "ri": {
+        "df": 4,
+        "idf": 1.435367,
+        "posting_list": [
+            {
+                "doc_id": "D5",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D7",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D9",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 1.435367
+            }
+        ]
+    },
+    "3": {
+        "df": 3,
+        "idf": 1.560305,
+        "posting_list": [
+            {
+                "doc_id": "D5",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D48",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D101",
+                "tf": 1,
+                "tfidf": 1.560305
+            }
+        ]
+    },
+    "2022": {
+        "df": 12,
+        "idf": 0.958245,
+        "posting_list": [
+            {
+                "doc_id": "D5",
+                "tf": 1,
+                "tfidf": 0.958245
+            },
+            {
+                "doc_id": "D6",
+                "tf": 1,
+                "tfidf": 0.958245
+            },
+            {
+                "doc_id": "D7",
+                "tf": 1,
+                "tfidf": 0.958245
+            },
+            {
+                "doc_id": "D8",
+                "tf": 1,
+                "tfidf": 0.958245
+            },
+            {
+                "doc_id": "D9",
+                "tf": 1,
+                "tfidf": 0.958245
+            },
+            {
+                "doc_id": "D10",
+                "tf": 1,
+                "tfidf": 0.958245
+            },
+            {
+                "doc_id": "D49",
+                "tf": 1,
+                "tfidf": 0.958245
+            },
+            {
+                "doc_id": "D57",
+                "tf": 1,
+                "tfidf": 0.958245
+            },
+            {
+                "doc_id": "D59",
+                "tf": 1,
+                "tfidf": 0.958245
+            },
+            {
+                "doc_id": "D60",
+                "tf": 1,
+                "tfidf": 0.958245
+            },
+            {
+                "doc_id": "D61",
+                "tf": 1,
+                "tfidf": 0.958245
+            },
+            {
+                "doc_id": "D109",
+                "tf": 1,
+                "tfidf": 0.958245
+            }
+        ]
+    },
+    "pedoman": {
+        "df": 22,
+        "idf": 0.695004,
+        "posting_list": [
+            {
+                "doc_id": "D5",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D8",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D9",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D22",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D42",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D45",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D46",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D48",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D49",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D52",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D53",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D54",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D59",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D60",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D61",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D62",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D67",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D68",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D69",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D72",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D76",
+                "tf": 1,
+                "tfidf": 0.695004
+            },
+            {
+                "doc_id": "D78",
+                "tf": 1,
+                "tfidf": 0.695004
+            }
+        ]
+    },
+    "penyusunan": {
+        "df": 4,
+        "idf": 1.435367,
+        "posting_list": [
+            {
+                "doc_id": "D5",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D9",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D28",
+                "tf": 2,
+                "tfidf": 2.870733
+            },
+            {
+                "doc_id": "D72",
+                "tf": 1,
+                "tfidf": 1.435367
+            }
+        ]
+    },
+    "kebutuhan": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D5",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D9",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "fungsional": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D5",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D9",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "asesor": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D5",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "sdm": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D5",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "92": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D6",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "o": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D6",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D10",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "kompetensi": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D6",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "administator": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D6",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "pengawas": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D6",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "komisi": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D7",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D27",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "informasi": {
+        "df": 10,
+        "idf": 1.037426,
+        "posting_list": [
+            {
+                "doc_id": "D7",
+                "tf": 2,
+                "tfidf": 2.074853
+            },
+            {
+                "doc_id": "D27",
+                "tf": 2,
+                "tfidf": 2.074853
+            },
+            {
+                "doc_id": "D44",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D48",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D52",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D54",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D75",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D76",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D101",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D103",
+                "tf": 1,
+                "tfidf": 1.037426
+            }
+        ]
+    },
+    "1": {
+        "df": 4,
+        "idf": 1.435367,
+        "posting_list": [
+            {
+                "doc_id": "D7",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D17",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D21",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D27",
+                "tf": 1,
+                "tfidf": 1.435367
+            }
+        ]
+    },
+    "monitoring": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D7",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "evaluasi": {
+        "df": 13,
+        "idf": 0.923483,
+        "posting_list": [
+            {
+                "doc_id": "D7",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D28",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D85",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D86",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D87",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D88",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D93",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D94",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D95",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D97",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D98",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D99",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D100",
+                "tf": 1,
+                "tfidf": 0.923483
+            }
+        ]
+    },
+    "keterbukaan": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D7",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "publik": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D7",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "sekretaris": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D8",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "jenderal": {
+        "df": 3,
+        "idf": 1.560305,
+        "posting_list": [
+            {
+                "doc_id": "D8",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D17",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 1.560305
+            }
+        ]
+    },
+    "kemendikbudristek": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D8",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D15",
+                "tf": 2,
+                "tfidf": 3.472793
+            }
+        ]
+    },
+    "17": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D8",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "mendikbudristek": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D8",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "30": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D8",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "2021": {
+        "df": 10,
+        "idf": 1.037426,
+        "posting_list": [
+            {
+                "doc_id": "D8",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D12",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D13",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D15",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D16",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D17",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D19",
+                "tf": 2,
+                "tfidf": 2.074853
+            },
+            {
+                "doc_id": "D22",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D68",
+                "tf": 1,
+                "tfidf": 1.037426
+            }
+        ]
+    },
+    "ttg": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D8",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "ppks": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D8",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "2": {
+        "df": 3,
+        "idf": 1.560305,
+        "posting_list": [
+            {
+                "doc_id": "D9",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D28",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D30",
+                "tf": 1,
+                "tfidf": 1.560305
+            }
+        ]
+    },
+    "analis": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D9",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "sumber": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D9",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "daya": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D9",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "manusia": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D9",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "55": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D10",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "peta": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D10",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "proses": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D10",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "bisnis": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D10",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "keuangan": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D11",
+                "tf": 2,
+                "tfidf": 4.074853
+            }
+        ]
+    },
+    "209": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "kmk": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "penetapan": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "upnvj": {
+        "df": 12,
+        "idf": 0.958245,
+        "posting_list": [
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 0.958245
+            },
+            {
+                "doc_id": "D14",
+                "tf": 1,
+                "tfidf": 0.958245
+            },
+            {
+                "doc_id": "D18",
+                "tf": 1,
+                "tfidf": 0.958245
+            },
+            {
+                "doc_id": "D26",
+                "tf": 1,
+                "tfidf": 0.958245
+            },
+            {
+                "doc_id": "D39",
+                "tf": 1,
+                "tfidf": 0.958245
+            },
+            {
+                "doc_id": "D42",
+                "tf": 1,
+                "tfidf": 0.958245
+            },
+            {
+                "doc_id": "D45",
+                "tf": 1,
+                "tfidf": 0.958245
+            },
+            {
+                "doc_id": "D46",
+                "tf": 1,
+                "tfidf": 0.958245
+            },
+            {
+                "doc_id": "D47",
+                "tf": 1,
+                "tfidf": 0.958245
+            },
+            {
+                "doc_id": "D49",
+                "tf": 1,
+                "tfidf": 0.958245
+            },
+            {
+                "doc_id": "D102",
+                "tf": 1,
+                "tfidf": 0.958245
+            },
+            {
+                "doc_id": "D103",
+                "tf": 1,
+                "tfidf": 0.958245
+            }
+        ]
+    },
+    "upnvy": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "pnb": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "pnj": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "pada": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D33",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "kemendikbud": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "sebagai": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "yang": {
+        "df": 3,
+        "idf": 1.560305,
+        "posting_list": [
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D13",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D21",
+                "tf": 1,
+                "tfidf": 1.560305
+            }
+        ]
+    },
+    "menerapkan": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "pola": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "pengelolaan": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "umum": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D11",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D27",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "164": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D12",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D15",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "panduan": {
+        "df": 10,
+        "idf": 1.037426,
+        "posting_list": [
+            {
+                "doc_id": "D12",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D15",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D28",
+                "tf": 2,
+                "tfidf": 2.074853
+            },
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D41",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D43",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D50",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D75",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D77",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D79",
+                "tf": 1,
+                "tfidf": 1.037426
+            }
+        ]
+    },
+    "agen": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D12",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D15",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "perubahan": {
+        "df": 3,
+        "idf": 1.560305,
+        "posting_list": [
+            {
+                "doc_id": "D12",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D15",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D25",
+                "tf": 1,
+                "tfidf": 1.560305
+            }
+        ]
+    },
+    "kemendikbu": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D12",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "kepmendikbudristek": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D13",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "186": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D13",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "program": {
+        "df": 10,
+        "idf": 1.037426,
+        "posting_list": [
+            {
+                "doc_id": "D13",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D16",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D28",
+                "tf": 2,
+                "tfidf": 2.074853
+            },
+            {
+                "doc_id": "D31",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D33",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D101",
+                "tf": 2,
+                "tfidf": 2.074853
+            },
+            {
+                "doc_id": "D103",
+                "tf": 2,
+                "tfidf": 2.074853
+            },
+            {
+                "doc_id": "D104",
+                "tf": 2,
+                "tfidf": 2.074853
+            },
+            {
+                "doc_id": "D105",
+                "tf": 2,
+                "tfidf": 2.074853
+            }
+        ]
+    },
+    "studi": {
+        "df": 8,
+        "idf": 1.134337,
+        "posting_list": [
+            {
+                "doc_id": "D13",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D28",
+                "tf": 2,
+                "tfidf": 2.268673
+            },
+            {
+                "doc_id": "D31",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D33",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D101",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D103",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D104",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D105",
+                "tf": 1,
+                "tfidf": 1.134337
+            }
+        ]
+    },
+    "diakreditasi": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D13",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "oleh": {
+        "df": 6,
+        "idf": 1.259275,
+        "posting_list": [
+            {
+                "doc_id": "D13",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D21",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D85",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D87",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D94",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D97",
+                "tf": 1,
+                "tfidf": 1.259275
+            }
+        ]
+    },
+    "akreditasi": {
+        "df": 4,
+        "idf": 1.435367,
+        "posting_list": [
+            {
+                "doc_id": "D13",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D21",
+                "tf": 3,
+                "tfidf": 4.3061
+            },
+            {
+                "doc_id": "D28",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D31",
+                "tf": 1,
+                "tfidf": 1.435367
+            }
+        ]
+    },
+    "mandiri": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D13",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D50",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "pengajuan": {
+        "df": 6,
+        "idf": 1.259275,
+        "posting_list": [
+            {
+                "doc_id": "D14",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D18",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D31",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D64",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D65",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D84",
+                "tf": 1,
+                "tfidf": 1.259275
+            }
+        ]
+    },
+    "proposal": {
+        "df": 6,
+        "idf": 1.259275,
+        "posting_list": [
+            {
+                "doc_id": "D14",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D18",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D34",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D39",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D41",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D77",
+                "tf": 1,
+                "tfidf": 1.259275
+            }
+        ]
+    },
+    "penelitian": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D14",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D18",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "pengabdian": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D14",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D18",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "kepada": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D14",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D18",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "masyarakat": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D14",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D18",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "pendanaan": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D14",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D18",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "internal": {
+        "df": 3,
+        "idf": 1.560305,
+        "posting_list": [
+            {
+                "doc_id": "D14",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D18",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D29",
+                "tf": 2,
+                "tfidf": 3.12061
+            }
+        ]
+    },
+    "bagi": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D14",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D18",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "dosen": {
+        "df": 6,
+        "idf": 1.259275,
+        "posting_list": [
+            {
+                "doc_id": "D14",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D18",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D85",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D89",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D93",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D97",
+                "tf": 1,
+                "tfidf": 1.259275
+            }
+        ]
+    },
+    "salinan": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D16",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D17",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "kepmen": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D16",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D20",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "74": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D16",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "pengakuan": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D16",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "kredit": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D16",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "semester": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D16",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D40",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "pembelajaran": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D16",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "kampus": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D16",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D44",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "merdeka": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D16",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D44",
+                "tf": 2,
+                "tfidf": 3.472793
+            }
+        ]
+    },
+    "direktur": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D17",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "12": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D17",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "e": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D17",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "kpt": {
+        "df": 3,
+        "idf": 1.560305,
+        "posting_list": [
+            {
+                "doc_id": "D17",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D33",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 1.560305
+            }
+        ]
+    },
+    "persesjen": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D19",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "4": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D19",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D31",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "petunjuk": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D19",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "teknis": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D19",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "penyaluran": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D19",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "bantuan": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D19",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "paket": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D19",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "kuota": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D19",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "data": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D19",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D104",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "internet": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D19",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "754": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D20",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "2020": {
+        "df": 9,
+        "idf": 1.083184,
+        "posting_list": [
+            {
+                "doc_id": "D20",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D21",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D22",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D23",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D25",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D63",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D67",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D68",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D82",
+                "tf": 1,
+                "tfidf": 1.083184
+            }
+        ]
+    },
+    "ban": {
+        "df": 3,
+        "idf": 1.560305,
+        "posting_list": [
+            {
+                "doc_id": "D21",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D28",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D31",
+                "tf": 1,
+                "tfidf": 1.560305
+            }
+        ]
+    },
+    "pt": {
+        "df": 3,
+        "idf": 1.560305,
+        "posting_list": [
+            {
+                "doc_id": "D21",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D28",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D31",
+                "tf": 1,
+                "tfidf": 1.560305
+            }
+        ]
+    },
+    "th": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D21",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "mekanisme": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D21",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "untuk": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D21",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D50",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "dilakukan": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D21",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "nasional": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D21",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "akademik": {
+        "df": 13,
+        "idf": 0.923483,
+        "posting_list": [
+            {
+                "doc_id": "D22",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D40",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D46",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D52",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D53",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D54",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D59",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D60",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D62",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D67",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D68",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D69",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D74",
+                "tf": 1,
+                "tfidf": 0.923483
+            }
+        ]
+    },
+    "20": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D23",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "un61": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D23",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "0": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D23",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "se": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D23",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "kewaspadaan": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D23",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "dini": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D23",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "terkait": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D23",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "covid": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D23",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "19": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D23",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "catatan": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D24",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "perjalanan": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D24",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "emas": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D24",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "1963": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D24",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "sampai": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D24",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "2013": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D24",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "rektor": {
+        "df": 3,
+        "idf": 1.560305,
+        "posting_list": [
+            {
+                "doc_id": "D25",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D47",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D70",
+                "tf": 1,
+                "tfidf": 1.560305
+            }
+        ]
+    },
+    "ikss": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D25",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "rencana": {
+        "df": 10,
+        "idf": 1.037426,
+        "posting_list": [
+            {
+                "doc_id": "D25",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D63",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D80",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D81",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D83",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D101",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D102",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D103",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D104",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D105",
+                "tf": 1,
+                "tfidf": 1.037426
+            }
+        ]
+    },
+    "strategis": {
+        "df": 9,
+        "idf": 1.083184,
+        "posting_list": [
+            {
+                "doc_id": "D25",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D63",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D81",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D83",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D101",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D102",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D103",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D104",
+                "tf": 1,
+                "tfidf": 1.083184
+            },
+            {
+                "doc_id": "D105",
+                "tf": 1,
+                "tfidf": 1.083184
+            }
+        ]
+    },
+    "rip": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D26",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "2019": {
+        "df": 11,
+        "idf": 0.996034,
+        "posting_list": [
+            {
+                "doc_id": "D26",
+                "tf": 1,
+                "tfidf": 0.996034
+            },
+            {
+                "doc_id": "D27",
+                "tf": 1,
+                "tfidf": 0.996034
+            },
+            {
+                "doc_id": "D28",
+                "tf": 1,
+                "tfidf": 0.996034
+            },
+            {
+                "doc_id": "D30",
+                "tf": 1,
+                "tfidf": 0.996034
+            },
+            {
+                "doc_id": "D31",
+                "tf": 1,
+                "tfidf": 0.996034
+            },
+            {
+                "doc_id": "D32",
+                "tf": 1,
+                "tfidf": 0.996034
+            },
+            {
+                "doc_id": "D33",
+                "tf": 1,
+                "tfidf": 0.996034
+            },
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 0.996034
+            },
+            {
+                "doc_id": "D36",
+                "tf": 1,
+                "tfidf": 0.996034
+            },
+            {
+                "doc_id": "D78",
+                "tf": 1,
+                "tfidf": 0.996034
+            },
+            {
+                "doc_id": "D82",
+                "tf": 1,
+                "tfidf": 0.996034
+            }
+        ]
+    },
+    "2044": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D26",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "prosedur": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D27",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "penyelesaian": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D27",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "sengketa": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D27",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "pemilihan": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D27",
+                "tf": 2,
+                "tfidf": 4.074853
+            }
+        ]
+    },
+    "laporan": {
+        "df": 13,
+        "idf": 0.923483,
+        "posting_list": [
+            {
+                "doc_id": "D28",
+                "tf": 2,
+                "tfidf": 1.846966
+            },
+            {
+                "doc_id": "D85",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D86",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D87",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D88",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D89",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D90",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D91",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D92",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D106",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D107",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D108",
+                "tf": 1,
+                "tfidf": 0.923483
+            },
+            {
+                "doc_id": "D109",
+                "tf": 1,
+                "tfidf": 0.923483
+            }
+        ]
+    },
+    "diri": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D28",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "dalam": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D28",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "instrumen": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D28",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "piagam": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D29",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "audit": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D29",
+                "tf": 2,
+                "tfidf": 4.074853
+            }
+        ]
+    },
+    "charter": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D29",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "republik": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D30",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "tata": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D30",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "cara": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D30",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "masa": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D30",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "persiapan": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D30",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "pensiun": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D30",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "permohonan": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D31",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D65",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "kepmendikbud": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D32",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "455": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D32",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "uraian": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D32",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "57": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D33",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "nama": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D33",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "format": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D34",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "pkm": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D34",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "kekayaan": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D35",
+                "tf": 2,
+                "tfidf": 4.074853
+            }
+        ]
+    },
+    "intelektual": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D35",
+                "tf": 2,
+                "tfidf": 4.074853
+            }
+        ]
+    },
+    "direktorat": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "penguatan": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "pengembangan": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "795": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "5": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "2018": {
+        "df": 5,
+        "idf": 1.338456,
+        "posting_list": [
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D37",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D55",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D58",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D73",
+                "tf": 1,
+                "tfidf": 1.338456
+            }
+        ]
+    },
+    "pengusulan": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "raih": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "hak": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D35",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "road": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D36",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "map": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D36",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "2015": {
+        "df": 3,
+        "idf": 1.560305,
+        "posting_list": [
+            {
+                "doc_id": "D36",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D38",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D76",
+                "tf": 1,
+                "tfidf": 1.560305
+            }
+        ]
+    },
+    "certificate": {
+        "df": 4,
+        "idf": 1.435367,
+        "posting_list": [
+            {
+                "doc_id": "D37",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D38",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D55",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D58",
+                "tf": 1,
+                "tfidf": 1.435367
+            }
+        ]
+    },
+    "of": {
+        "df": 4,
+        "idf": 1.435367,
+        "posting_list": [
+            {
+                "doc_id": "D37",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D38",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D55",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D58",
+                "tf": 1,
+                "tfidf": 1.435367
+            }
+        ]
+    },
+    "registration": {
+        "df": 3,
+        "idf": 1.560305,
+        "posting_list": [
+            {
+                "doc_id": "D37",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D38",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D55",
+                "tf": 1,
+                "tfidf": 1.560305
+            }
+        ]
+    },
+    "iso": {
+        "df": 4,
+        "idf": 1.435367,
+        "posting_list": [
+            {
+                "doc_id": "D37",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D38",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D55",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D58",
+                "tf": 1,
+                "tfidf": 1.435367
+            }
+        ]
+    },
+    "21001": {
+        "df": 3,
+        "idf": 1.560305,
+        "posting_list": [
+            {
+                "doc_id": "D37",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D55",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D58",
+                "tf": 1,
+                "tfidf": 1.560305
+            }
+        ]
+    },
+    "9001": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D38",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "template": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D39",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "skripsi": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D39",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D61",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "fik": {
+        "df": 21,
+        "idf": 0.715207,
+        "posting_list": [
+            {
+                "doc_id": "D39",
+                "tf": 1,
+                "tfidf": 0.715207
+            },
+            {
+                "doc_id": "D41",
+                "tf": 1,
+                "tfidf": 0.715207
+            },
+            {
+                "doc_id": "D42",
+                "tf": 1,
+                "tfidf": 0.715207
+            },
+            {
+                "doc_id": "D45",
+                "tf": 1,
+                "tfidf": 0.715207
+            },
+            {
+                "doc_id": "D46",
+                "tf": 1,
+                "tfidf": 0.715207
+            },
+            {
+                "doc_id": "D49",
+                "tf": 1,
+                "tfidf": 0.715207
+            },
+            {
+                "doc_id": "D56",
+                "tf": 1,
+                "tfidf": 0.715207
+            },
+            {
+                "doc_id": "D57",
+                "tf": 1,
+                "tfidf": 0.715207
+            },
+            {
+                "doc_id": "D60",
+                "tf": 1,
+                "tfidf": 0.715207
+            },
+            {
+                "doc_id": "D61",
+                "tf": 1,
+                "tfidf": 0.715207
+            },
+            {
+                "doc_id": "D67",
+                "tf": 1,
+                "tfidf": 0.715207
+            },
+            {
+                "doc_id": "D68",
+                "tf": 1,
+                "tfidf": 0.715207
+            },
+            {
+                "doc_id": "D73",
+                "tf": 1,
+                "tfidf": 0.715207
+            },
+            {
+                "doc_id": "D80",
+                "tf": 1,
+                "tfidf": 0.715207
+            },
+            {
+                "doc_id": "D81",
+                "tf": 1,
+                "tfidf": 0.715207
+            },
+            {
+                "doc_id": "D102",
+                "tf": 1,
+                "tfidf": 0.715207
+            },
+            {
+                "doc_id": "D103",
+                "tf": 1,
+                "tfidf": 0.715207
+            },
+            {
+                "doc_id": "D106",
+                "tf": 1,
+                "tfidf": 0.715207
+            },
+            {
+                "doc_id": "D107",
+                "tf": 1,
+                "tfidf": 0.715207
+            },
+            {
+                "doc_id": "D108",
+                "tf": 1,
+                "tfidf": 0.715207
+            },
+            {
+                "doc_id": "D109",
+                "tf": 1,
+                "tfidf": 0.715207
+            }
+        ]
+    },
+    "2026": {
+        "df": 10,
+        "idf": 1.037426,
+        "posting_list": [
+            {
+                "doc_id": "D39",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D40",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D85",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D86",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D87",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D88",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D89",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D90",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D91",
+                "tf": 1,
+                "tfidf": 1.037426
+            },
+            {
+                "doc_id": "D92",
+                "tf": 1,
+                "tfidf": 1.037426
+            }
+        ]
+    },
+    "kalender": {
+        "df": 3,
+        "idf": 1.560305,
+        "posting_list": [
+            {
+                "doc_id": "D40",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D56",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D57",
+                "tf": 1,
+                "tfidf": 1.560305
+            }
+        ]
+    },
+    "fakultas": {
+        "df": 3,
+        "idf": 1.560305,
+        "posting_list": [
+            {
+                "doc_id": "D40",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D86",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D100",
+                "tf": 1,
+                "tfidf": 1.560305
+            }
+        ]
+    },
+    "ilmu": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D40",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "komputer": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D40",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "ganjiln": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D40",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "genap": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D40",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "2025": {
+        "df": 8,
+        "idf": 1.134337,
+        "posting_list": [
+            {
+                "doc_id": "D40",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D42",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D101",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D102",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D103",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D104",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D105",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D106",
+                "tf": 1,
+                "tfidf": 1.134337
+            }
+        ]
+    },
+    "pendaftaran": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D41",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D71",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "unggah": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D41",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D50",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "lampiran": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D41",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D82",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "web": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D41",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "lentera": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D41",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "tugas": {
+        "df": 7,
+        "idf": 1.192328,
+        "posting_list": [
+            {
+                "doc_id": "D42",
+                "tf": 1,
+                "tfidf": 1.192328
+            },
+            {
+                "doc_id": "D48",
+                "tf": 1,
+                "tfidf": 1.192328
+            },
+            {
+                "doc_id": "D76",
+                "tf": 1,
+                "tfidf": 1.192328
+            },
+            {
+                "doc_id": "D77",
+                "tf": 1,
+                "tfidf": 1.192328
+            },
+            {
+                "doc_id": "D78",
+                "tf": 1,
+                "tfidf": 1.192328
+            },
+            {
+                "doc_id": "D88",
+                "tf": 1,
+                "tfidf": 1.192328
+            },
+            {
+                "doc_id": "D95",
+                "tf": 1,
+                "tfidf": 1.192328
+            }
+        ]
+    },
+    "akhir": {
+        "df": 7,
+        "idf": 1.192328,
+        "posting_list": [
+            {
+                "doc_id": "D42",
+                "tf": 1,
+                "tfidf": 1.192328
+            },
+            {
+                "doc_id": "D48",
+                "tf": 1,
+                "tfidf": 1.192328
+            },
+            {
+                "doc_id": "D76",
+                "tf": 1,
+                "tfidf": 1.192328
+            },
+            {
+                "doc_id": "D77",
+                "tf": 1,
+                "tfidf": 1.192328
+            },
+            {
+                "doc_id": "D78",
+                "tf": 1,
+                "tfidf": 1.192328
+            },
+            {
+                "doc_id": "D88",
+                "tf": 1,
+                "tfidf": 1.192328
+            },
+            {
+                "doc_id": "D95",
+                "tf": 1,
+                "tfidf": 1.192328
+            }
+        ]
+    },
+    "penggunaan": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D43",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "mendeley": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D43",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "desktop": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D43",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "publish": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D43",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "or": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D43",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "perish": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D43",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "kurikulum": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D44",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "belajar": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D44",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "d3": {
+        "df": 4,
+        "idf": 1.435367,
+        "posting_list": [
+            {
+                "doc_id": "D44",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D52",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D75",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D76",
+                "tf": 1,
+                "tfidf": 1.435367
+            }
+        ]
+    },
+    "sistem": {
+        "df": 8,
+        "idf": 1.134337,
+        "posting_list": [
+            {
+                "doc_id": "D44",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D48",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D52",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D54",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D75",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D76",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D101",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D103",
+                "tf": 1,
+                "tfidf": 1.134337
+            }
+        ]
+    },
+    "mbkm": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D45",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D49",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "kode": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D47",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "etik": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D47",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "mahasiswa": {
+        "df": 6,
+        "idf": 1.259275,
+        "posting_list": [
+            {
+                "doc_id": "D47",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D50",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D85",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D87",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D94",
+                "tf": 1,
+                "tfidf": 1.259275
+            },
+            {
+                "doc_id": "D97",
+                "tf": 1,
+                "tfidf": 1.259275
+            }
+        ]
+    },
+    "penulisan": {
+        "df": 5,
+        "idf": 1.338456,
+        "posting_list": [
+            {
+                "doc_id": "D48",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D61",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D76",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D77",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D78",
+                "tf": 1,
+                "tfidf": 1.338456
+            }
+        ]
+    },
+    "prodi": {
+        "df": 4,
+        "idf": 1.435367,
+        "posting_list": [
+            {
+                "doc_id": "D48",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D51",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D62",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D63",
+                "tf": 1,
+                "tfidf": 1.435367
+            }
+        ]
+    },
+    "programn": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D48",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "diploma": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D48",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D101",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "buku": {
+        "df": 3,
+        "idf": 1.560305,
+        "posting_list": [
+            {
+                "doc_id": "D49",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D50",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D66",
+                "tf": 1,
+                "tfidf": 1.560305
+            }
+        ]
+    },
+    "karya": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D50",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "ilmiah": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D50",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "daftar": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D51",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "mata": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D51",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "kuliah": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D51",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "informatika": {
+        "df": 5,
+        "idf": 1.338456,
+        "posting_list": [
+            {
+                "doc_id": "D51",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D53",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D63",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D79",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D105",
+                "tf": 1,
+                "tfidf": 1.338456
+            }
+        ]
+    },
+    "ganjil": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D51",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "s1": {
+        "df": 5,
+        "idf": 1.338456,
+        "posting_list": [
+            {
+                "doc_id": "D53",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D54",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D59",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D62",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D63",
+                "tf": 1,
+                "tfidf": 1.338456
+            }
+        ]
+    },
+    "berbasis": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D56",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "meja": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D57",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "ta": {
+        "df": 5,
+        "idf": 1.338456,
+        "posting_list": [
+            {
+                "doc_id": "D57",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D59",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D71",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D78",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D82",
+                "tf": 1,
+                "tfidf": 1.338456
+            }
+        ]
+    },
+    "registrtion": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D58",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "si": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D59",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D62",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "learning": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D62",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "agreement": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D62",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "pob": {
+        "df": 4,
+        "idf": 1.435367,
+        "posting_list": [
+            {
+                "doc_id": "D64",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D65",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D71",
+                "tf": 1,
+                "tfidf": 1.435367
+            },
+            {
+                "doc_id": "D73",
+                "tf": 1,
+                "tfidf": 1.435367
+            }
+        ]
+    },
+    "keterangan": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D64",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D72",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "mhs": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D64",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "aktif": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D64",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "online": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D64",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "kp": {
+        "df": 3,
+        "idf": 1.560305,
+        "posting_list": [
+            {
+                "doc_id": "D65",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D75",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D79",
+                "tf": 1,
+                "tfidf": 1.560305
+            }
+        ]
+    },
+    "wisuda": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D66",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "ke": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D66",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "67": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D66",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "pembimbing": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D69",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "sidang": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D71",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "sti": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D71",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "pendamping": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D72",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "ijazah": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D72",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "skpi": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D72",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "kerja": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D75",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "praktek": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D75",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "new": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D75",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "2014": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D77",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "2012": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D79",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "magang": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D82",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "judul": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D84",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "sistematika": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D84",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "elom": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D87",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D94",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "elta": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D88",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "kepuasan": {
+        "df": 8,
+        "idf": 1.134337,
+        "posting_list": [
+            {
+                "doc_id": "D89",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D90",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D91",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D92",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D93",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D96",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D98",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D99",
+                "tf": 1,
+                "tfidf": 1.134337
+            }
+        ]
+    },
+    "mitra": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D90",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D99",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "kerjasama": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D90",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D99",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "pengguna": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D91",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "lulusan": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D91",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "tenaga": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D92",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D96",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "kependidikan": {
+        "df": 2,
+        "idf": 1.736397,
+        "posting_list": [
+            {
+                "doc_id": "D92",
+                "tf": 1,
+                "tfidf": 1.736397
+            },
+            {
+                "doc_id": "D96",
+                "tf": 1,
+                "tfidf": 1.736397
+            }
+        ]
+    },
+    "analisis": {
+        "df": 8,
+        "idf": 1.134337,
+        "posting_list": [
+            {
+                "doc_id": "D93",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D94",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D95",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D96",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D97",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D98",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D99",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D100",
+                "tf": 1,
+                "tfidf": 1.134337
+            }
+        ]
+    },
+    "kuesioner": {
+        "df": 8,
+        "idf": 1.134337,
+        "posting_list": [
+            {
+                "doc_id": "D93",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D94",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D95",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D96",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D97",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D98",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D99",
+                "tf": 1,
+                "tfidf": 1.134337
+            },
+            {
+                "doc_id": "D100",
+                "tf": 1,
+                "tfidf": 1.134337
+            }
+        ]
+    },
+    "edom": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D97",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "alumni": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D98",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    },
+    "2029": {
+        "df": 5,
+        "idf": 1.338456,
+        "posting_list": [
+            {
+                "doc_id": "D101",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D102",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D103",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D104",
+                "tf": 1,
+                "tfidf": 1.338456
+            },
+            {
+                "doc_id": "D105",
+                "tf": 1,
+                "tfidf": 1.338456
+            }
+        ]
+    },
+    "sarjana": {
+        "df": 3,
+        "idf": 1.560305,
+        "posting_list": [
+            {
+                "doc_id": "D103",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D104",
+                "tf": 1,
+                "tfidf": 1.560305
+            },
+            {
+                "doc_id": "D105",
+                "tf": 1,
+                "tfidf": 1.560305
+            }
+        ]
+    },
+    "sains": {
+        "df": 1,
+        "idf": 2.037426,
+        "posting_list": [
+            {
+                "doc_id": "D104",
+                "tf": 1,
+                "tfidf": 2.037426
+            }
+        ]
+    }
+}
